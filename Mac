@@ -1,0 +1,27 @@
+# Install Brew: 
+
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+
+# Install dependencies:
+
+brew install git
+
+brew install python3
+
+sudo easy_install pip
+
+sudo pip install --upgrade pip
+
+git clone https://github.com/TheSpeedX/TBomb.git
+
+cd TBomb
+
+chmod +x TBomb.sh
+
+# Missing Tools
+
+Toilet cannot be installed yet. But TBomb does still work.
+
+# Run TBomb:
+
+sudo bash TBomb.sh
