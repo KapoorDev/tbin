@@ -1,2 +1,2 @@
-# tbin
+# tbomb
 TBomb installer
